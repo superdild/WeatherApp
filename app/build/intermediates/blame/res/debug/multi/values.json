@@ -1,0 +1,454 @@
+[
+    {
+        "outputFile": "E:\\Coursera\\WeatherApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 47,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 52,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endLine": 19,
+                    "endColumn": 11,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 3,
+                        "startOffset": 1068,
+                        "endLine": 31,
+                        "endColumn": 11,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endLine": 22,
+                    "endColumn": 11,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 3,
+                        "startOffset": 909,
+                        "endLine": 27,
+                        "endColumn": 11,
+                        "endOffset": 1060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endLine": 26,
+                    "endColumn": 9,
+                    "endOffset": 1277
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endLine": 22,
+                        "endColumn": 9,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1282,
+                    "endLine": 30,
+                    "endColumn": 11,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "E:\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 3,
+                        "startOffset": 1232,
+                        "endLine": 37,
+                        "endColumn": 11,
+                        "endOffset": 1432
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 47,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 52,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endLine": 19,
+                    "endColumn": 11,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 3,
+                        "startOffset": 1068,
+                        "endLine": 31,
+                        "endColumn": 11,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endLine": 22,
+                    "endColumn": 11,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 3,
+                        "startOffset": 909,
+                        "endLine": 27,
+                        "endColumn": 11,
+                        "endOffset": 1060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endLine": 26,
+                    "endColumn": 9,
+                    "endOffset": 1277
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endLine": 22,
+                        "endColumn": 9,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1282,
+                    "endLine": 30,
+                    "endColumn": 11,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "C:\\Users\\pippo\\Desktop\\Coursera\\WeatherApp\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 3,
+                        "startOffset": 1232,
+                        "endLine": 37,
+                        "endColumn": 11,
+                        "endOffset": 1432
+                    }
+                }
+            }
+        ]
+    }
+]

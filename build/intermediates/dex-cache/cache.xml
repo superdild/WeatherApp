@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\pippo\Desktop\Coursera\WeatherApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\pippo\Desktop\Coursera\WeatherApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_56a258f835fd633ac9fea8adcea2f0238192be9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pippo\Desktop\Coursera\WeatherApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\pippo\Desktop\Coursera\WeatherApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_b95afae242da39ae50c9394da6a54ce08d6d4e57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pippo\Downloads\adt-bundle-windows\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\pippo\Desktop\Coursera\WeatherApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_156fee5592a74d66d3bf1b0fd9fc82fb7afebbb4.jar" />
+    </item>
+
+</items>
